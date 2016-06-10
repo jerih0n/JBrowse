@@ -1,0 +1,9 @@
+C:\Users\DB\Desktop\JustBrowse\JustBrowse\bin\Debug\JustBrowse.exe.config
+C:\Users\DB\Desktop\JustBrowse\JustBrowse\bin\Debug\JustBrowse.exe
+C:\Users\DB\Desktop\JustBrowse\JustBrowse\bin\Debug\JustBrowse.pdb
+C:\Users\DB\Desktop\JustBrowse\JustBrowse\obj\Debug\JustBrowse.csprojResolveAssemblyReference.cache
+C:\Users\DB\Desktop\JustBrowse\JustBrowse\obj\Debug\JustBrowse.JustBrowse.resources
+C:\Users\DB\Desktop\JustBrowse\JustBrowse\obj\Debug\JustBrowse.Properties.Resources.resources
+C:\Users\DB\Desktop\JustBrowse\JustBrowse\obj\Debug\JustBrowse.csproj.GenerateResource.Cache
+C:\Users\DB\Desktop\JustBrowse\JustBrowse\obj\Debug\JustBrowse.exe
+C:\Users\DB\Desktop\JustBrowse\JustBrowse\obj\Debug\JustBrowse.pdb
